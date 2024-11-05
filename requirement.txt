@@ -1,0 +1,9 @@
+praw
+python-dotenv
+psycopg2-binary
+transformers
+torch
+matplotlib
+openai
+nltk
+gensim
